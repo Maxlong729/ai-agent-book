@@ -1,2 +1,11 @@
 # Pandoc 安装包（安装后可删除）
 *.pkg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.DS_Store
+manuscript/AI智能体工作流_前言及前四章.docx
